@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Sem título</name>
+	<gx:CascadingStyle kml:id="__managed_style_186061E1E32F4F4EEDFD">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_2B963CEB8A2F4F4EEDFD">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_05033C218E2F4F4EEDFD">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_186061E1E32F4F4EEDFD</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2B963CEB8A2F4F4EEDFD</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_2EF2699FC02F4F4D914C">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_18A3C057A42F4F4D914C">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0D25E148E32F4F4D914C">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_18A3C057A42F4F4D914C</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2EF2699FC02F4F4D914C</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0B897001EC2F4F4D9148">
+		<name>Fundação Educacional do Município de Assis - FEMA</name>
+		<gx:mid>/g/1z3t21cjs</gx:mid>
+		<gx:fid>0x949539645c16ab3f:0xa71c4169037ccb72</gx:fid>
+		<LookAt>
+			<longitude>-50.4196322</longitude>
+			<latitude>-22.64413799999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>966.0863973237414</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D25E148E32F4F4D914C</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-50.4196322,-22.644138,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="092EED8D232F4F4EAF5D">
+		<name>Polígono sem título</name>
+		<LookAt>
+			<longitude>-50.4217356748527</longitude>
+			<latitude>-22.64562887990656</latitude>
+			<altitude>565.1687831260582</altitude>
+			<heading>5.843075933845804</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>917.9247179403319</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05033C218E2F4F4EEDFD</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-50.42317667392609,-22.64480481936815,0 -50.42204269395225,-22.64578618042091,0 -50.42182507309715,-22.64556690399661,0 -50.4221276048961,-22.64534794113944,0 -50.42157370278897,-22.64505215268648,0 -50.42064086295854,-22.64582338455892,0 -50.42050831240272,-22.64568445301708,0 -50.41938960759044,-22.64453238191258,0 -50.41910192897964,-22.64433378087971,0 -50.418920000851,-22.64430575726642,0 -50.41881978322217,-22.64387335662416,0 -50.41908436941547,-22.64219021827156,0 -50.42019975303193,-22.64245202580283,0 -50.42047927195226,-22.64243274000893,0 -50.42068381390868,-22.64234731795103,0 -50.42108086305318,-22.64191442293101,0 -50.42244770253411,-22.6427808526278,0 -50.42213214493864,-22.6432975403472,0 -50.42275995550612,-22.64363464287243,0 -50.42236039186087,-22.64411207239758,0 -50.42412120639514,-22.64518613131081,0 -50.4239504496268,-22.64533077150843,0 -50.42317667392609,-22.64480481936815,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>
