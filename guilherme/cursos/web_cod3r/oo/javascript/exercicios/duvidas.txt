@@ -1,0 +1,2 @@
+/*DUVIDAS*/
+-ex23.js como funciona filter 
